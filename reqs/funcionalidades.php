@@ -74,7 +74,7 @@ function validarEmail($emailJaExiste) {
         echo "
 
             <div class='alert alert-danger' role='alert'>
-                É necessário preencher os dois campos.
+                É necessário preencher os dois campos e o email deve estar no seguinte formato: email@exemplo.com
             </div>
 
         ";
